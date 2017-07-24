@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NMKeychain_Example' do
+  pod 'NMKeychain', :path => '../'
+
+  target 'NMKeychain_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
