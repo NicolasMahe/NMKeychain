@@ -52,7 +52,7 @@ let date = dataInKeychain.value
 
 Nicolas Mahe, nicolas@mahe.me
 
-## Dependancy
+## Dependency
 
 [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) from Kishikawakatsumi
 
