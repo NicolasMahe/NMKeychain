@@ -1,0 +1,19 @@
+PODS:
+  - KeychainAccess (3.0.2)
+  - NMKeychain (0.0.1):
+    - KeychainAccess
+
+DEPENDENCIES:
+  - NMKeychain (from `../`)
+
+EXTERNAL SOURCES:
+  NMKeychain:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KeychainAccess: a986406022dfc7c634c691ad3bec670cc6a32002
+  NMKeychain: 93570a61b15c5c25689a2cb46b880d2ade910a2b
+
+PODFILE CHECKSUM: 536783717f957588e6dab77738ef6d3b96003752
+
+COCOAPODS: 1.2.1
